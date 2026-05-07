@@ -1,0 +1,6 @@
+train: C:\Users\JCM\Desktop\final_inteligente\train\images
+val: C:\Users\JCM\Desktop\final_inteligente\valid\images
+
+
+nc: 4  # Número de clases (ajusta según la cantidad de clases de tus señales de tráfico)
+names: ['señal_stop', 'semaforo', 'limite_velocidad', 'no_retorno']  # Cambia estos nombres por los nombres reales de tus clases
